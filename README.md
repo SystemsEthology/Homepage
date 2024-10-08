@@ -1,4 +1,4 @@
-Systems Ethology
+# Systems Ethology
 
 ## News
 
